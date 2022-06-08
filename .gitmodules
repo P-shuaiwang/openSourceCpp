@@ -37,3 +37,6 @@
 [submodule "electronDIY/MiniRover-Hardware"]
 	path = electronDIY/MiniRover-Hardware
 	url = git@github.com:peng-zhihui/MiniRover-Hardware.git
+[submodule "electronDIY/esp32s3-keyboard"]
+	path = electronDIY/esp32s3-keyboard
+	url = git@github.com:hhuysqt/esp32s3-keyboard.git
