@@ -22,3 +22,6 @@
 [submodule "codingGuide/secguide"]
 	path = codingGuide/secguide
 	url = git@github.com:P-shuaiwang/secguide.git
+[submodule "codingGuide/safe-rules"]
+	path = codingGuide/safe-rules
+	url = git@github.com:P-shuaiwang/safe-rules.git
