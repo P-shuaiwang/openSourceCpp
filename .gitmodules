@@ -46,3 +46,6 @@
 [submodule "electronDIY/X-Bot"]
 	path = electronDIY/X-Bot
 	url = git@github.com:HogwartsRico/X-Bot.git
+[submodule "electronDIY/ONE-Robot"]
+	path = electronDIY/ONE-Robot
+	url = git@github.com:peng-zhihui/ONE-Robot.git
