@@ -19,3 +19,6 @@
 [submodule "electronDIY/qmk_firmware"]
 	path = electronDIY/qmk_firmware
 	url = git@github.com:qmk/qmk_firmware.git
+[submodule "codingGuide/secguide"]
+	path = codingGuide/secguide
+	url = git@github.com:P-shuaiwang/secguide.git
