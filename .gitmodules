@@ -31,3 +31,6 @@
 [submodule "electronDIY/betaflight"]
 	path = electronDIY/betaflight
 	url = git@github.com:BETAFPV/betaflight.git
+[submodule "electronDIY/StanfordQuadruped"]
+	path = electronDIY/StanfordQuadruped
+	url = git@github.com:stanfordroboticsclub/StanfordQuadruped.git
