@@ -1,0 +1,3 @@
+[submodule "electronDIY/AnoFly"]
+	path = electronDIY/AnoFly
+	url = git@github.com:Think-Fly/AnoFly.git
