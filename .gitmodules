@@ -4,3 +4,6 @@
 [submodule "electronDIY/crazyflie-firmware"]
 	path = electronDIY/crazyflie-firmware
 	url = git@github.com:bitcraze/crazyflie-firmware.git
+[submodule "electronDIY/crazepony-firmware-none"]
+	path = electronDIY/crazepony-firmware-none
+	url = git@github.com:Crazepony/crazepony-firmware-none.git
