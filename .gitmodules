@@ -40,3 +40,6 @@
 [submodule "electronDIY/esp32s3-keyboard"]
 	path = electronDIY/esp32s3-keyboard
 	url = git@github.com:hhuysqt/esp32s3-keyboard.git
+[submodule "electronDIY/hexapod-v2-7697"]
+	path = electronDIY/hexapod-v2-7697
+	url = git@github.com:SmallpTsai/hexapod-v2-7697.git
