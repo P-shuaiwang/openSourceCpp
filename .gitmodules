@@ -34,3 +34,6 @@
 [submodule "electronDIY/StanfordQuadruped"]
 	path = electronDIY/StanfordQuadruped
 	url = git@github.com:stanfordroboticsclub/StanfordQuadruped.git
+[submodule "electronDIY/MiniRover-Hardware"]
+	path = electronDIY/MiniRover-Hardware
+	url = git@github.com:peng-zhihui/MiniRover-Hardware.git
