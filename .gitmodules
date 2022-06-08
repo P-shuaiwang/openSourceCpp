@@ -43,3 +43,6 @@
 [submodule "electronDIY/hexapod-v2-7697"]
 	path = electronDIY/hexapod-v2-7697
 	url = git@github.com:SmallpTsai/hexapod-v2-7697.git
+[submodule "electronDIY/X-Bot"]
+	path = electronDIY/X-Bot
+	url = git@github.com:HogwartsRico/X-Bot.git
