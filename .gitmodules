@@ -49,3 +49,6 @@
 [submodule "electronDIY/ONE-Robot"]
 	path = electronDIY/ONE-Robot
 	url = git@github.com:peng-zhihui/ONE-Robot.git
+[submodule "electronDIY/smartknob"]
+	path = electronDIY/smartknob
+	url = git@github.com:scottbez1/smartknob.git
