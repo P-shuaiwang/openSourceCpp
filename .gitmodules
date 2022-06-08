@@ -28,3 +28,6 @@
 [submodule "electronDIY/esp-drone"]
 	path = electronDIY/esp-drone
 	url = git@github.com:P-shuaiwang/esp-drone.git
+[submodule "electronDIY/betaflight"]
+	path = electronDIY/betaflight
+	url = git@github.com:BETAFPV/betaflight.git
