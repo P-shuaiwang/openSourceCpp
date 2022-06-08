@@ -7,3 +7,6 @@
 [submodule "electronDIY/crazepony-firmware-none"]
 	path = electronDIY/crazepony-firmware-none
 	url = git@github.com:Crazepony/crazepony-firmware-none.git
+[submodule "electronDIY/crazepony-remote-none"]
+	path = electronDIY/crazepony-remote-none
+	url = git@github.com:Crazepony/crazepony-remote-none.git
