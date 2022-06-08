@@ -25,3 +25,6 @@
 [submodule "codingGuide/safe-rules"]
 	path = codingGuide/safe-rules
 	url = git@github.com:P-shuaiwang/safe-rules.git
+[submodule "electronDIY/esp-drone"]
+	path = electronDIY/esp-drone
+	url = git@github.com:P-shuaiwang/esp-drone.git
