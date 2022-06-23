@@ -52,3 +52,21 @@
 [submodule "electronDIY/smartknob"]
 	path = electronDIY/smartknob
 	url = git@github.com:scottbez1/smartknob.git
+[submodule "motor/Arduino-FOC"]
+	path = motor/Arduino-FOC
+	url = https://github.com/simplefoc/Arduino-FOC.git
+[submodule "electronDIY/esp32_mouse_keyboard"]
+	path = electronDIY/esp32_mouse_keyboard
+	url = https://github.com/asterics/esp32_mouse_keyboard.git
+[submodule "motor/Deng-s-foc-controller"]
+	path = motor/Deng-s-foc-controller
+	url = https://github.com/ToanTech/Deng-s-foc-controller.git
+[submodule "motor/miniFOC"]
+	path = motor/miniFOC
+	url = https://github.com/ZhuYanzhen1/miniFOC.git
+[submodule "algorithm/quaternion"]
+	path = algorithm/quaternion
+	url = https://github.com/Krasjet/quaternion.git
+[submodule "electronDIY/X-TRACK"]
+	path = electronDIY/X-TRACK
+	url = https://github.com/peng-zhihui/X-TRACK.git
