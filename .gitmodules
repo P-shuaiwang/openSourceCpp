@@ -70,3 +70,24 @@
 [submodule "electronDIY/X-TRACK"]
 	path = electronDIY/X-TRACK
 	url = https://github.com/peng-zhihui/X-TRACK.git
+[submodule "electronDIY/zmk"]
+	path = electronDIY/zmk
+	url = https://github.com/zmkfirmware/zmk.git
+[submodule "electronDIY/HelloWord-Keyboard"]
+	path = electronDIY/HelloWord-Keyboard
+	url = https://github.com/peng-zhihui/HelloWord-Keyboard.git
+[submodule "cpp_open_library/folly"]
+	path = cpp_open_library/folly
+	url = https://github.com/facebook/folly.git
+[submodule "cpp_open_library/workflow"]
+	path = cpp_open_library/workflow
+	url = https://github.com/sogou/workflow.git
+[submodule "cpp_open_library/sylar"]
+	path = cpp_open_library/sylar
+	url = https://github.com/sylar-yin/sylar.git
+[submodule "motor/ODrive"]
+	path = motor/ODrive
+	url = https://github.com/odriverobotics/ODrive.git
+[submodule "cpp_open_library/muduo"]
+	path = cpp_open_library/muduo
+	url = https://github.com/chenshuo/muduo.git
