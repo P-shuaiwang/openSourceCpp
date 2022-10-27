@@ -91,3 +91,6 @@
 [submodule "cpp_open_library/muduo"]
 	path = cpp_open_library/muduo
 	url = https://github.com/chenshuo/muduo.git
+[submodule "cpp_open_library/taskflow"]
+	path = cpp_open_library/taskflow
+	url = https://github.com/taskflow/taskflow.git
